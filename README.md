@@ -12,8 +12,8 @@ $ pkg install git
 
 $ pip2 install requests
 
-$ git clone https://github.com/MrproAL-404/spam-sms
+$ git clone https://github.com/AbizarFADILAH/spam-brsms
 
-$ cd spam-sms
+$ cd spam-brsms.py
 
-$ python2 jail.py
+$ python2 spam-brsms.py
